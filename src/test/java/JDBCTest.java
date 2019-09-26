@@ -1,5 +1,5 @@
-import lombok.extern.log4j.Log4j;
 import org.junit.Test;
+import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -7,7 +7,7 @@ import java.sql.DriverManager;
 import static org.junit.Assert.fail;
 
 public class JDBCTest {
-    private final org.slf4j.Logger logger = LoggerFactory.getLogger(this.getClass());
+    private final Logger logger = LoggerFactory.getLogger(this.getClass());
 
     static {
         try {
