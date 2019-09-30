@@ -1,6 +1,10 @@
-# Default ignored files
-/workspace.xml
+# IntelliJ
+out/
 
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+### Java-Web ###
+## ignoring target file
+target/
+
+# Directories #
+.idea
+.idea/**/libraries
