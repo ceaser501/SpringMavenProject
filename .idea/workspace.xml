@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="905924f8-48b6-4874-a004-cf8660a9ca4e" name="Default Changelist" comment="" />
+    <list default="true" id="905924f8-48b6-4874-a004-cf8660a9ca4e" name="Default Changelist" comment="setting version 1.1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +112,6 @@
       <option name="OPEN_IN_BROWSER" value="false" />
       <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=EUC-KR" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
-      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATING_POLICY" value="redeploy-artifacts" />
       <deployment>
         <artifact name="SpringMavenProject:war exploded">
@@ -224,7 +225,7 @@
       <workItem from="1569255197032" duration="3097000" />
       <workItem from="1569425661088" duration="744000" />
       <workItem from="1569426430674" duration="10892000" />
-      <workItem from="1569506967136" duration="8548000" />
+      <workItem from="1569506967136" duration="9266000" />
     </task>
     <task id="LOCAL-00001" summary="setting version 1.0">
       <created>1569504039089</created>
